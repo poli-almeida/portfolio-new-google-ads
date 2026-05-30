@@ -119,7 +119,7 @@ export const translations: Record<Language, TranslationDictionary> = {
     hero: {
       badge: "For freelancers, B2B, B2C, and e-commerces",
       headline: "Stop waiting for clients to drop from the sky. 🚀 Google Ads that generate qualified leads every single day.",
-      subheadline: "While you do what you do best, Poliana takes care of your paid traffic — with strategy, data, and managed Google Ads to bring real clients, not empty clicks.",
+      subheadline: "While you do what you do best, I take care of your paid traffic — with strategy, data, and managed Google Ads to bring real clients, not empty clicks.",
       oldPrice: "Old Price: ~~$400/month~~",
       newPrice: "Starting at $180/month",
       cta: "I want more clients →"
@@ -136,7 +136,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         "❌ Spends months waiting for the next project to magically appear",
         "❌ Remains completely invisible to those who are actively looking to hire"
       ],
-      colBName: "WITH GOOGLE ADS — BY POLIANA",
+      colBName: "WITH GOOGLE ADS — BY ME (POLIANA)",
       colBChar: "Mary",
       colBBullets: [
         "✅ Appears at the exact moment the client is searching for her service",
@@ -155,7 +155,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         "😩 Feel like smaller competitors are growing much faster than you",
         "😩 Want to scale, but have no idea where your next clients are coming from"
       ],
-      transition: "With Poliana managing your Google Ads, you will:",
+      transition: "With me managing your Google Ads, you will:",
       gains: [
         "🎯 Appear directly to people who are already searching for what you offer with high buying intent",
         "📈 Have a constant stream of leads without depending on unpredictable social media algorithms",
@@ -170,7 +170,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         {
           number: "1",
           title: "Free Discovery Audit",
-          description: "In a 30-minute session, Poliana will audit your account, analyze your business model, pinpoint where you are wasting ad spend, and present a realistic roadmap to generate leads with Google Ads."
+          description: "In a 30-minute session, I will audit your account, analyze your business model, pinpoint where you are wasting ad spend, and present a realistic roadmap to generate leads with Google Ads."
         },
         {
           number: "2",
@@ -185,7 +185,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       ]
     },
     offers: {
-      headline: "Choose how you want to work with Poliana",
+      headline: "Choose how you want to work with me",
       lead: "From a quick diagnostic audit to full end-to-end management. Find the perfect format for your current business stage.",
       p1: {
         tag: "FREE · 1-ON-1",
@@ -198,14 +198,14 @@ export const translations: Record<Language, TranslationDictionary> = {
         tag: "PAID · FOCUSED SESSION",
         badge: "MOST POPULAR 🔥",
         title: "Power Hour",
-        desc: "An intensive, deep-dive session where Poliana reviews your live account, audits active campaigns, or solves complex tracking and strategic bottlenecks in real-time. You set the agenda.",
+        desc: "An intensive, deep-dive session where I review your live account, audit active campaigns, or solve complex tracking and strategic bottlenecks in real-time. You set the agenda.",
         price: "€125 (30 min) / €250 (60 min)",
         link: "Book my Power Hour →"
       },
       p3: {
         tag: "SELF-SERVE",
         title: "Google Ads Playbook",
-        desc: "The exact battle-tested frameworks Poliana uses to build, optimize, and scale highly profitable client accounts. No vague theories — just the practical step-by-step blueprints behind real success.",
+        desc: "The exact battle-tested frameworks I use to build, optimize, and scale highly profitable client accounts. No vague theories — just the practical step-by-step blueprints behind real success.",
         price: "€200 · One-time payment",
         link: "Get the Playbook →"
       },
@@ -218,7 +218,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       },
       retainer: {
         title: "Monthly Google Ads Management",
-        desc: "For established businesses that want an absolute expert managing everything — keyword research, ad copy creation, daily budget optimizations, scaling, and strategy — while you focus on running your business. High-touch, transparent service with no surprises.",
+        desc: "For established businesses that want me to manage everything — keyword research, ad copy creation, daily budget optimizations, scaling, and strategy — while you focus on running your business. High-touch, transparent service with no surprises.",
         cta: "Request a custom management proposal →"
       }
     },
@@ -247,22 +247,22 @@ export const translations: Record<Language, TranslationDictionary> = {
         {
           metric: "10x ROAS",
           title: "E-commerce Scaling",
-          desc: "A boutique retail brand came to Poliana with a 1.8x ROAS, draining cash on high-intent keywords but failing to convert dynamic checkout visits. Poliana conducted a complete account overhaul, separating low-converting generic queries and feeding the smart-bidding algorithm with laser-targeted Search and Google Shopping assets. Within 60 days, purchase velocity spiked, culminating in a sustained 10x ROAS that allowed the founder to scale monthly inventory safely."
+          desc: "A boutique retail brand came to me with a 1.8x ROAS, draining cash on high-intent keywords but failing to convert dynamic checkout visits. I conducted a complete account overhaul, separating low-converting generic queries and feeding the smart-bidding algorithm with laser-targeted Search and Google Shopping assets. Within 60 days, purchase velocity spiked, culminating in a sustained 10x ROAS that allowed the founder to scale monthly inventory safely."
         },
         {
           metric: "-60% CPL",
           title: "Local Services Expansion",
-          desc: "A local high-end medical clinic was paying an unsustainable $85 per lead, losing search auctions to major regional hospitals. By implementing hyper-segmented zip-code geofencing, custom bidding schedules, and deploying local callout extensions that emphasized quick response, Poliana sliced the cost-per-lead (CPL) by 60%. The clinic filled its schedule with premium patients needing high-ticket treatments, maximizing their operational revenue."
+          desc: "A local high-end medical clinic was paying an unsustainable $85 per lead, losing search auctions to major regional hospitals. By implementing hyper-segmented zip-code geofencing, custom bidding schedules, and deploying local callout extensions that emphasized quick response, I sliced the cost-per-lead (CPL) by 60%. The clinic filled its schedule with premium patients needing high-ticket treatments, maximizing their operational revenue."
         },
         {
           metric: "100% Recovered",
           title: "Complete Tracking Recovery",
-          desc: "A high-ticket international consulting firm was flying blind due to iOS 14+ cookie degradation, causing their live web conversions and Google Ads bids to desynchronize. Poliana successfully mapped and deployed a custom Server-Side tracking solution using Google Tag Manager (GTM) connected to custom cloud servers. With 100% of purchase event sequences accurately recovered, the machine-learning engine stabilized bids and restored predictability."
+          desc: "A high-ticket international consulting firm was flying blind due to iOS 14+ cookie degradation, causing their live web conversions and Google Ads bids to desynchronize. I successfully mapped and deployed a custom Server-Side tracking solution using Google Tag Manager (GTM) connected to custom cloud servers. With 100% of purchase event sequences accurately recovered, the machine-learning engine stabilized bids and restored predictability."
         },
         {
           metric: "Max Volume",
           title: "Strategic Lead Generation",
-          desc: "A premium corporate SaaS B2B platform struggled with empty website clicks that never booked live product demos. Poliana redesigned their Google Ads targeting by filtering traffic strictly for business decision-makers, adding strict negative keyterms, and upgrading the core landing page. By treating demo bookings as primary conversion targets alongside custom lead-scoring, lead quality surged, yielding an active sales pipeline."
+          desc: "A premium corporate SaaS B2B platform struggled with empty website clicks that never booked live product demos. I redesigned their Google Ads targeting by filtering traffic strictly for business decision-makers, adding strict negative keyterms, and upgrading the core landing page. By treating demo bookings as primary conversion targets alongside custom lead-scoring, lead quality surged, yielding an active sales pipeline."
         }
       ]
     },
@@ -307,24 +307,36 @@ export const translations: Record<Language, TranslationDictionary> = {
       ]
     },
     about: {
-      headline: "Who is Poliana Almeida?",
+      headline: "Who am I?",
       avatarInitials: "PA",
       paragraphs: [
-        "Poliana Almeida is a dedicated Google Ads specialist with years of hands-on experience scaling campaigns for freelancers, B2B companies, service providers, and e-commerces. She has managed budgets of all sizes — from modest initial launches to high-growth, scalable enterprise budgets.",
-        "While most traditional digital agencies hand over cluttered, contextless automated reports filled with vanity metrics, Poliana focuses strictly on business strategy, clarity, and true bottom-line profitability. Every single dollar of ad spend is assigned an objective purpose.",
-        "If you are ready to stop guessing what works online and start scaling your customer acquisition with true predictability, you are in the right place."
+        "Hi, my name is Poliana Almeida.",
+        "When I first started out - I believed what most service providers and business owners believe:\n\n“If I’m great at my craft… the clients will come.”\n\nSpoiler: they didn’t.",
+        "I spent years riding the feast-and-famine rollercoaster - chasing referrals, guessing what would work, and wondering why less-skilled businesses were fully booked.",
+        "That’s what led me here. When I started running ads for my clients - I could see that this could be a fantastic tool for other business owners, too.",
+        "So I took my time building this high-performance ad system - based on:",
+        "- Years of hands-on experience in paid traffic, transitioning from core traffic management to building a dedicated media-buying operation.",
+        "- Managing and optimizing complex ad campaigns across diverse markets, from hyper-local lead generation to high-ticket international spaces.",
+        "- Mastering global platforms like Upwork to secure premium international contracts, proving how targeted positioning wins high-intent clients.",
+        "- Bridging technical accuracy with clear strategy, making sure every single dollar spent on Google Ads is tracked, optimized, and tied directly to true return on investment.",
+        "- Building a highly efficient, independent business that allows me to manage global campaigns and stay fully connected with international clients from anywhere.",
+        "But more importantly?",
+        "I get what it’s like to be the hidden gem - the one who delivers real results, understands the mechanics of a great offer, but still feels invisible online.",
+        "That’s why I built this.",
+        "Not as a traditional agency pushing vanity metrics and empty clicks, but as a fellow strategist who figured out how to get seen - and get paid - without selling my soul.",
+        "And now? It’s your turn."
       ]
     },
     guarantee: {
       headline: "✓ Zero Risk. Start with a completely free strategy session.",
-      summary: "The Strategy Call is 100% free and requires no commitment. In 30 minutes, you will gain absolute clarity on your high-priority action items — whether you choose to work with Poliana moving forward or not."
+      summary: "The Strategy Call is 100% free and requires no commitment. In 30 minutes, you will gain absolute clarity on your high-priority action items — whether you choose to work with me moving forward or not."
     },
     faq: {
       headline: "Frequently Asked Questions",
       items: [
         {
           q: "Do I need previous experience with ads to get started?",
-          a: "Not at all. Poliana manages the entire workflow — from initial architecture setup to ongoing scaling and data optimizations. You just need a validated business offer and the capacity to handle new clients."
+          a: "Not at all. I manage the entire workflow — from initial architecture setup to ongoing scaling and data optimizations. You just need a validated business offer and the capacity to handle new clients."
         },
         {
           q: "What is the minimum recommended ad budget?",
@@ -332,7 +344,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         },
         {
           q: "Does this work for both service-based businesses and e-commerce?",
-          a: "Yes. Poliana has extensive experience structuring both models — whether your goal is high-quality lead generation for B2B/B2C services or driving direct purchase conversions for digital and physical storefronts."
+          a: "Yes. I have extensive experience structuring both models — whether your goal is high-quality lead generation for B2B/B2C services or driving direct purchase conversions for digital and physical storefronts."
         },
         {
           q: "How long does it take to see tangible results?",
@@ -368,7 +380,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       btnSubmit: "Book my free Strategy Call now →",
       submitting: "Analyzing data assets...",
       successTitle: "🎉 Application Logged Successfully!",
-      successDesc: "We received your parameters. Poliana will personally audit your website and reach out via WhatsApp signature within 3 hours to book our Zoom Strategy session.",
+      successDesc: "We received your parameters. I will personally audit your website and reach out via WhatsApp signature within 3 hours to book our Zoom Strategy session.",
       portalTitle: "Secured Lead Registries (CRM Ledger Preview)",
       portalEmpty: "No leads submitted in this browser session yet. Use the form above to log data to localStorage!"
     },
@@ -390,7 +402,7 @@ export const translations: Record<Language, TranslationDictionary> = {
     hero: {
       badge: "Para freelancers, B2B, B2C e e-commerces",
       headline: "Pare de esperar que os clientes caiam do céu. 🚀 Google Ads que gera leads qualificados todos os dias.",
-      subheadline: "Enquanto você faz o que faz de melhor, Poliana cuida do seu tráfego pago — com estratégia, dados e anúncios gerenciados para trazer clientes reais, não cliques vazios.",
+      subheadline: "Enquanto você faz o que faz de melhor, eu cuido do seu tráfego pago — com estratégia, dados e anúncios gerenciados para trazer clientes reais, não cliques vazios.",
       oldPrice: "Preço Antigo: ~~R$2.000/mês~~",
       newPrice: "A partir de R$900/mês",
       cta: "Eu quero mais clientes →"
@@ -407,7 +419,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         "❌ Passa meses esperando que o próximo projeto apareça magicamente",
         "❌ Permanece completamente invisível para quem busca ativamente contratar"
       ],
-      colBName: "COM GOOGLE ADS — POR POLIANA",
+      colBName: "COM GOOGLE ADS — COMIGO (POLIANA)",
       colBChar: "Mary",
       colBBullets: [
         "✅ Aparece no exato momento em que o cliente pesquisa pelo serviço dela",
@@ -426,7 +438,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         "😩 Sente que concorrentes menores estão crescendo muito mais rápido que você",
         "😩 Quer escalar, mas não tem ideia de onde virão seus próximos clientes"
       ],
-      transition: "Com Poliana gerenciando seu Google Ads, você vai:",
+      transition: "Comigo gerenciando seu Google Ads, você vai:",
       gains: [
         "🎯 Aparecer diretamente para pessoas que já pesquisam pelo que você oferece com alta intenção de compra",
         "📈 Ter um fluxo constante de leads sem depender de algoritmos imprevisíveis das redes sociais",
@@ -441,7 +453,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         {
           number: "1",
           title: "Auditoria de Descoberta Gratuita",
-          description: "Em uma sessão de 30 minutos, Poliana auditará sua conta, analisará o modelo do seu negócio, identificará onde você está desperdiçando orçamento e apresentará um roteiro prático para gerar leads com Google Ads."
+          description: "Em uma sessão de 30 minutos, eu vou auditar pessoalmente sua conta, analisar o modelo do seu negócio, identificar onde você está desperdiçando orçamento e apresentar um roteiro prático para gerar leads com Google Ads."
         },
         {
           number: "2",
@@ -456,7 +468,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       ]
     },
     offers: {
-      headline: "Escolha como deseja trabalhar com a Poliana",
+      headline: "Escolha como deseja trabalhar comigo",
       lead: "Desde uma auditoria de diagnóstico rápida até a gestão completa de ponta a ponta. Encontre o formato perfeito para o momento atual da sua empresa.",
       p1: {
         tag: "GRATUITO · 1-PARA-1",
@@ -469,14 +481,14 @@ export const translations: Record<Language, TranslationDictionary> = {
         tag: "PAGO · SESSÃO FOCADA",
         badge: "MAIS POPULAR 🔥",
         title: "Power Hour",
-        desc: "Uma sessão intensiva focada onde Poliana analisa sua conta ativa, audita campanhas ou resolve bicos de garrafa técnicos e de rastreio complexos em tempo real sob sua agenda.",
+        desc: "Uma sessão intensiva focada onde eu analiso pessoalmente sua conta ativa, audito campanhas ou resolvo pontos de gargalo técnicos e de rastreio complexos em tempo real sob sua agenda.",
         price: "R$ 750 / sessão",
         link: "Agendar minha Power Hour →"
       },
       p3: {
         tag: "AUTO-SERVIÇO",
         title: "Google Ads Playbook",
-        desc: "Os frameworks exatos validados que Poliana utiliza para construir, otimizar e escalar contas lucrativas de clientes. Sem teorias vagas — passos práticos e blueprints de sucesso.",
+        desc: "Os frameworks exatos validados que eu utilizo para construir, otimizar e escalar contas lucrativas de clientes. Sem teorias vagas — passos práticos e blueprints de sucesso.",
         price: "R$ 197 · Pagamento único",
         link: "Adquirir o Playbook →"
       },
@@ -489,7 +501,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       },
       retainer: {
         title: "Gestão Mensal de Google Ads",
-        desc: "Para empresas consolidadas que desejam uma especialista sênior gerenciando tudo — pesquisa de termos, criação de copies, otimização de orçamentos diários e escala — enquanto você foca na operação. Serviço dedicado sem surpresas.",
+        desc: "Para empresas consolidadas que desejam que eu gerencie tudo como sua parceira sênior — pesquisa de termos, criação de copies, otimização de orçamentos diários e escala — enquanto você foca na operação. Serviço dedicado sem surpresas.",
         cta: "Solicitar proposta de gestão mensal personalizada →"
       }
     },
@@ -518,22 +530,22 @@ export const translations: Record<Language, TranslationDictionary> = {
         {
           metric: "10x ROAS",
           title: "Escala de E-commerce",
-          desc: "Uma marca premium de varejo chegou à Poliana com um ROAS de apenas 1.8x, drenando orçamento com termos genéricos e caras pesquisas vazias de conversão. Poliana realizou uma reestruturação cirúrgica completa na conta de anúncios, separando termos de alta intenção e alimentando o algoritmo de lances inteligentes com criativos e palavras-chave cirúrgicas no Search + Shopping. Em 60 dias, as compras dispararam, garantindo um ROAS sustentável de 10x e viabilizando a escala."
+          desc: "Uma marca premium de varejo chegou até mim com um ROAS de apenas 1.8x, drenando orçamento com termos genéricos e caras pesquisas vazias de conversão. Eu realizei uma reestruturação cirúrgica completa na conta de anúncios, separando termos de alta intenção e alimentando o algoritmo de lances inteligentes com criativos e palavras-chave cirúrgicas no Search + Shopping. Em 60 dias, as compras dispararam, garantindo um ROAS sustentável de 10x e viabilizando a escala."
         },
         {
           metric: "-60% CPL",
           title: "Serviços Locais",
-          desc: "Uma clínica médica de alto padrão estava pagando insustentáveis R$ 120 por lead, perdendo leilões para grandes redes de saúde regionais. Com a implementação de geolocalização hiper-localizada por raio de CEP, programações estratégicas de lances e extensões de chamadas focadas em atendimento rápido, Poliana cortou o custo por lead (CPL) em 60%, preenchendo a agenda operacional da clínica com procedimentos de alto valor."
+          desc: "Uma clínica médica de alto padrão estava pagando insustentáveis R$ 120 por lead, perdendo leilões para grandes redes de saúde regionais. Com a implementação de geolocalização hiper-localizada por raio de CEP, programações estratégicas de lances e extensões de chamadas focadas em atendimento rápido, eu cortei o custo por lead (CPL) em 60%, preenchendo a agenda operacional da clínica com procedimentos de alto valor."
         },
         {
           metric: "100% Recuperado",
           title: "Rastreamento Blindado",
-          desc: "Um funil de consultoria internacional de alto tíquete operava às cegas devido aos bloqueios de cookies de navegadores modernos (iOS 14+), desregulando o cruzamento de dados com seu CRM de CRM vendas. Poliana desenhou do zero uma nova arquitetura robusta Server-Side com Google Tag Manager (GTM) hospedado em container cloud dedicada. Recuperando 100% dos eventos de conversão, estabilizou lances automáticos e gerou previsibilidade."
+          desc: "Um funil de consultoria internacional de alto tíquete operava às cegas devido aos bloqueios de cookies de navegadores modernos (iOS 14+), desregulando o cruzamento de dados com seu CRM de CRM vendas. Eu desenhei do zero uma nova arquitetura robusta Server-Side com Google Tag Manager (GTM) hospedado em container cloud dedicada. Recuperando 100% dos eventos de conversão, estabilizei lances automáticos e gerou previsibilidade."
         },
         {
           metric: "Máximo Volume",
           title: "Geração Estratégica de Leads",
-          desc: "Uma plataforma de soluções de software B2B corporativa sofria com alto volume de tráfego que consumia orçamento mas nunca preenchia formulários de demonstração demonstrativos. Poliana reconfigurou o funil de anúncios excluindo buscas curiosas, filtrando tráfego exclusivamente para cargos de liderança institucional e refazendo o design da landing page institucional. A qualidade disparou, resultando em conversões qualificadas recorrentes."
+          desc: "Uma plataforma de soluções de software B2B corporativa sofria com alto volume de tráfego que consumia orçamento mas nunca preenchia formulários de demonstração demonstrativos. Eu reconfigurei o funil de anúncios excluindo buscas curiosas, filtrando tráfego exclusivamente para cargos de liderança institucional e refazendo o design da landing page institucional. A qualidade disparou, resultando em conversões qualificadas recorrentes."
         }
       ]
     },
@@ -578,12 +590,24 @@ export const translations: Record<Language, TranslationDictionary> = {
       ]
     },
     about: {
-      headline: "Quem é Poliana Almeida?",
+      headline: "Quem sou eu?",
       avatarInitials: "PA",
       paragraphs: [
-        "Poliana Almeida é estrategista dedicada a canais de Google Ads com anos de experiência prática gerenciando contas e impulsionando escalas para freelancers, empresas B2B, provedores de serviços especializados e lojas de e-commerce. Atua controlando orçamentos de todos os tamanhos — desde orçamentos iniciais enxutos até investimentos competitivos focados em forte tração de mercado.",
-        "Diferente da maioria das agências tradicionais que entregam relatórios automatizados cheios de métricas de vaidade sem contexto prático, Poliana se concentra estritamente na direção de dados estratégicos, clareza técnica e lucratividade líquida de final de mês.",
-        "Se o seu objetivo é parar de tentar adivinhar o que gera resultados online e começar a expandir a aquisição de novos negócios sob uma governança profissional, você está no lugar ideal."
+        "Olá, meu nome é Poliana Almeida.",
+        "Quando comecei, eu acreditava no que a maioria dos prestadores de serviços e empresários acredita:\n\n“Se eu for de elite no que faço... os clientes virão.”\n\nSpoiler: eles não vieram.",
+        "Passei anos na montanha-russa de altos e baixos de faturamento — correndo atrás de indicações, tentando adivinhar o que funcionaria e me perguntando por que negócios com menos qualificação técnica estavam com a agenda cheia.",
+        "Foi isso que me trouxe até aqui. Quando comecei a rodar anúncios para os meus clientes, percebi que essa poderia ser uma ferramenta fantástica para outros empresários também.",
+        "Por isso, dediquei meu tempo para estruturar este sistema de anúncios de alta performance, baseado em:",
+        "- Anos de experiência prática em tráfego pago, transitando do gerenciamento básico de tráfego para a criação de uma operação dedicada de compra de mídia.",
+        "- Gerenciar e otimizar campanhas de anúncios complexas em diversos mercados, desde geração de leads hiper-localizada até espaços internacionais de alto tíquete (high-ticket).",
+        "- Dominar plataformas globais como o Upwork para conquistar contratos internacionais premium, provando como o posicionamento segmentado atrai clientes de alta intenção.",
+        "- Unir precisão técnica com estratégia clara, garantindo que cada centavo investido no Google Ads seja rastreado, otimizado e conectado diretamente ao retorno real sobre o investimento.",
+        "- Construir um negócio altamente eficiente e independente que me permita gerenciar campanhas globais e manter conexão total com clientes internacionais de qualquer lugar.",
+        "Mas o mais importante?",
+        "Eu entendo perfeitamente o que é ser aquela joia oculta — quem entrega resultados de verdade, domina a mecânica de uma excelente oferta, mas ainda se sente invisível online.",
+        "É por isso que construí este sistema.",
+        "Não como uma agência tradicional focada em métricas de vaidade e cliques vazios, mas como uma estrategista parceira que descobriu como ser vista — e ser paga — sem perder a integridade.",
+        "E agora? É a sua vez."
       ]
     },
     guarantee: {
@@ -595,7 +619,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       items: [
         {
           q: "Preciso ter experiência prévia com anúncios para começar?",
-          a: "De forma alguma. Poliana cuida de todo o fluxo operacional técnico — desde o desenho da arquitetura inicial das campanhas até as otimizações contínuas de escala. Você só precisa ter um portfólio de serviços ou produtos validados e operacional pronto para receber leads."
+          a: "De forma alguma. Eu cuido de todo o fluxo operacional técnico — desde o desenho da arquitetura inicial das campanhas até as otimizações contínuas de escala. Você só precisa ter um portfólio de serviços ou produtos validados e operacional pronto para receber leads."
         },
         {
           q: "Qual o orçamento mínimo recomendado para os anúncios?",
@@ -639,7 +663,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       btnSubmit: "Reservar minha Chamada de Estratégia Gratuita agora →",
       submitting: "Analisando ativos táticos de divulgação...",
       successTitle: "🎉 Aplicação Registrada com Êxito!",
-      successDesc: "Capturamos suas coordenadas de negócios. Poliana analisará seu domínio e entrará em contato direto no WhatsApp dentro do período de 3 horas úteis para coordenarmos nosso horário pelo Zoom.",
+      successDesc: "Capturamos suas coordenadas de negócios. Eu analisarei pessoalmente seu domínio e entrarei em contato direto no WhatsApp dentro do período de 3 horas úteis para coordenarmos nosso horário pelo Zoom.",
       portalTitle: "Leads Cadastrados Recém-Recebidos (Histórico Local)",
       portalEmpty: "Sem submissões arquivadas neste navegador ainda. Complete o formulário para testar o armazenamento em localStorage!"
     },
@@ -661,7 +685,7 @@ export const translations: Record<Language, TranslationDictionary> = {
     hero: {
       badge: "Para freelancers, B2B, B2C y e-commerces",
       headline: "Deja de esperar que los clientes caigan del cielo. 🚀 Google Ads que genera leads calificados todos los días.",
-      subheadline: "Mientras haces lo que mejor sabes hacer, Poliana se encarga de tu tráfico pagado — con estrategia, datos y anuncios gestionados para atraer clientes reales, no clics vacíos.",
+      subheadline: "Mientras haces lo que mejor sabes hacer, yo me encargo de tu tráfico pagado — con estrategia, datos y anuncios gestionados para atraer clientes reales, no clics vacíos.",
       oldPrice: "Precio Anterior: ~~€400/mes~~",
       newPrice: "Desde €180/mes",
       cta: "Quiero más clientes →"
@@ -678,7 +702,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         "❌ Pasa meses esperando que surja un nuevo proyecto de forma mágica",
         "❌ Sigue siendo invisible para quienes buscan activamente contratar"
       ],
-      colBName: "CON GOOGLE ADS — POR POLIANA",
+      colBName: "CON GOOGLE ADS — CONMIGO (POLIANA)",
       colBChar: "Mary",
       colBBullets: [
         "✅ Aparece en el momento exacto en que el cliente busca su servicio",
@@ -697,7 +721,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         "😩 Ves que competidores más pequeños crecen mucho más rápido que tu marca",
         "😩 Deseas escalar operaciones pero desconoces el origen de tu próxima venta"
       ],
-      transition: "Con Poliana gestionando tus campañas de Google Ads, lograrás:",
+      transition: "Conmigo gestionando tus campañas de Google Ads, lograrás:",
       gains: [
         "🎯 Aparecer enfrente de usuarios que ya buscan lo tuyo con clara intención de compra",
         "📈 Asegurar un canal predecible de contactos sin depender de reestructuraciones de algoritmos",
@@ -712,7 +736,7 @@ export const translations: Record<Language, TranslationDictionary> = {
         {
           number: "1",
           title: "Auditoría de Descubrimiento Gratuita",
-          description: "En una sesión enfocada de 30 minutos, Poliana auditará tu cuenta de anuncios, investigará tu oferta comercial, señalará fugas de dinero y definirá un plan práctico."
+          description: "En una sesión enfocada de 30 minutos, yo personalmente auditaré tu cuenta de anuncios, investigaré tu oferta comercial, señalaré fugas de dinero y definirá un plan práctico."
         },
         {
           number: "2",
@@ -727,7 +751,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       ]
     },
     offers: {
-      headline: "Elige cómo deseas trabajar con Poliana",
+      headline: "Elige cómo deseas trabajar conmigo",
       lead: "Desde una auditoría de diagnóstico rápida hasta la gestión completa de extremo a extremo. Encuentra el formato perfecto para la etapa actual de tu negocio.",
       p1: {
         tag: "GRATUITO · 1-A-1",
@@ -747,7 +771,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       p3: {
         tag: "AUTO-SERVICIO",
         title: "Google Ads Playbook",
-        desc: "Las estructuras metodológicas exactas que Poliana implementa en sus clientes boutique para optimizar lances y conseguir el menor CPA. Sin teorías ambiguas, 100% práctico.",
+        desc: "Las estructuras metodológicas exactas que yo implemento en mis clientes boutique para optimizar lances y conseguir el menor CPA. Sin teorías ambiguas, 100% práctico.",
         price: "$197 · Pago único",
         link: "Comprar el Playbook →"
       },
@@ -789,22 +813,22 @@ export const translations: Record<Language, TranslationDictionary> = {
         {
           metric: "10x ROAS",
           title: "Escala de E-commerce",
-          desc: "Una marca premium de moda llegó a Poliana con un ROAS de 1.8x, perdiendo dinero en palabras clave de baja calidad que no conducían a pagos finales. Poliana realizó una auditoría y reestructuración total de la cuenta, depurando términos inservibles e impulsando el algoritmo de Google con campañas optimizadas de Search + Shopping. En 60 dias, el volumen de pedidos se disparó, alcanzando un ROAS de 10x sostenible de forma segura."
+          desc: "Una marca premium de moda llegó a mí con un ROAS de 1.8x, perdiendo dinero en palabras clave de baja calidad que no conducían a pagos finales. Yo realicé una auditoría y reestructuración total de la cuenta, depurando términos inservibles e impulsando el algoritmo de Google con campañas optimizadas de Search + Shopping. En 60 dias, el volumen de pedidos se disparó, alcanzando un ROAS de 10x sostenible de forma segura."
         },
         {
           metric: "-60% CPL",
           title: "Servicios Locales",
-          desc: "Una clínica médica de alta gama pagaba más de $85 por contacto, perdiendo competitividad frente a hospitales corporativos regionales. Mediante la aplicación de una lógica de geolocalización ultraprecisa por códigos postales, ofertas horarias personalizadas y extensiones de llamada directa, Poliana redujo el costo por lead (CPL) en un 60%, logrando llenar la agenda de la clínica con consultas especializadas premium de alta rentabilidad."
+          desc: "Una clínica médica de alta gama pagaba más de $85 por contacto, perdiendo competitividad frente a hospitales corporativos regionales. Mediante la aplicación de una lógica de geolocalización ultraprecisa por códigos postales, ofertas horarias personalizadas y extensiones de llamada directa, yo reduje el costo por lead (CPL) en un 60%, logrando llenar la agenda de la clínica con consultas especializadas premium de alta rentabilidad."
         },
         {
           metric: "100% Recovered",
           title: "Rastreo Asegurado",
-          desc: "Una consultora internacional de alta gama operaba a ciegas debido a las limitaciones de cookies de iOS 14+, lo que impedía que sus conversiones reales se cruzaran con el algoritmo de Google Ads. Poliana desplegó una robusta solución Server-Side a través de Google Tag Manager (GTM) en servidores dedicados en la nube. Al sincronizar el 100% de los eventos, el algoritmo recuperó la precisión, estabilizando los costes por contacto."
+          desc: "Una consultora internacional de alta gama operaba a ciegas debido a las limitaciones de cookies de iOS 14+, lo que impedía que sus conversiones reales se cruzaran con el algoritmo de Google Ads. Yo desplegué una robusta solución Server-Side a través de Google Tag Manager (GTM) en servidores dedicados en la nube. Al sincronizar el 100% de los eventos, el algoritmo recuperó la precisión, estabilizando los costes por contacto."
         },
         {
           metric: "Máximo Volume",
           title: "Generación Estratégica de Leads",
-          desc: "Una compañía SaaS B2B de nivel corporativo captaba clics informativos pero rara vez registraba solicitudes de demos guiadas de su producto principal. Poliana blindó todo el embudo añadiendo concordancias negativas de búsqueda, filtrando el tráfico específicamente para directores ejecutivos y modernizando la landing page. La calidad de los leads ascendió significativamente, nutriendo un pipeline de ventas predecible."
+          desc: "Una compañía SaaS B2B de nivel corporativo captaba clics informativos pero rara vez registraba solicitudes de demos guiadas de su producto principal. Yo blindé todo el embudo añadiendo concordancias negativas de búsqueda, filtrando el tráfico específicamente para directores ejecutivos y modernizando la landing page. La calidad de los leads ascendió significativamente, nutriendo un pipeline de ventas predecible."
         }
       ]
     },
@@ -849,24 +873,36 @@ export const translations: Record<Language, TranslationDictionary> = {
       ]
     },
     about: {
-      headline: "¿Quién es Poliana Almeida?",
+      headline: "¿Quién soy yo?",
       avatarInitials: "PA",
       paragraphs: [
-        "Poliana Almeida es una especialista dedicada a la consultoría de Google Ads enfocada en brindar rentabilidad a freelancers, marcas B2B, empresas locales y plataformas e-commerce con campañas calibradas para el éxito comercial.",
-        "A diferencia de las agencias de tráfego que envían métricas vacías e informes automatizados confusos, Poliana enfoca toda la dirección táctica hacia la optimización del margen neto y la escalabilidad real diaria.",
-        "Si buscas un socio de tráfego que hable con franqueza de datos y proteja tu inversión asignando un propósito exclusivo a cada centavo, estás con la profesional adecuada."
+        "Hola, mi nombre es Poliana Almeida.",
+        "Cuando recién comencé, creía en lo que la mayoría de los proveedores de servicios y dueños de negocios creen:\n\n“Si soy excelente en lo que hago... los clientes vendrán.”\n\nSpoiler: no vinieron.",
+        "Pasé años en una montaña rusa de abundancia y escasez: buscando recomendaciones, adivinando qué funcionaría y preguntándome por qué negocios menos calificados técnicamente tenían la agenda llena.",
+        "Eso es lo que me trajo aquí. Cuando empecé a publicar campañas de anuncios para mis clientes, vi que esto también podía ser una herramienta fantástica para otros dueños de negocios.",
+        "Así que dediqué mi tiempo a construir este sistema de publicidad de alto rendimiento, basado en:",
+        "- Años de experiencia práctica en tráfico de pago, transitando del core de la gestión de tráfico a la creación de una operación de compra de medios dedicada.",
+        "- Gestionar y optimizar campañas publicitarias complejas en diversos mercados, desde la captación de prospectos hiperlocales hasta espacios internacionales de alto valor (high-ticket).",
+        "- Dominar plataformas globales como Upwork para captar contratos internacionales premium, demostrando cómo el posicionamiento enfocado atrae clientes de alta intención.",
+        "- Vincular la precisión técnica con una estrategia clara, asegurando que cada centavo invertido en Google Ads sea rastreado, optimizado y conectado directamente con el retorno real de la inversión.",
+        "- Construir un negocio altamente eficiente e independiente que me permite coordinar campañas globales y mantenerme completamente comunicada con clientes internacionales desde cualquier lugar.",
+        "¿Pero lo más importante?",
+        "Entiendo perfectamente lo que se siente ser esa gema oculta: la profesional que ofrece resultados reales, comprende la mecánica de una gran oferta, pero sigue sintiéndose invisible en internet.",
+        "Por eso construí esta estructura.",
+        "No como una agencia tradicional que promueve informes automáticos y clics vacíos, sino como una estratega aliada que descubrió cómo hacerse notar — y cobrar lo que vale — bajo mis propios términos.",
+        "Y ahora, ¿es tu turno?"
       ]
     },
     guarantee: {
       headline: "✓ Riesgo Cero. Comienza con una sesión estratégica totalmente gratuita.",
-      summary: "La Sesión Estratégica es 100% gratuita y no contrae obligaciones ni contratos futuros de ningún tipo. Obtendrás una hoja de ruta con ideas prioritarias para tu escala, decidas o no trabajar adelante con Poliana."
+      summary: "La Sesión Estratégica es 100% gratuita y no contrae obligaciones ni contratos futuros de ningún tipo. Obtendrás una hoja de ruta con ideas prioritarias para tu escala, decidas o no trabajar adelante conmigo."
     },
     faq: {
       headline: "Preguntas Frecuentes",
       items: [
         {
           q: "¿Se requiere experiencia previa de anuncios para iniciar?",
-          a: "No, en lo absoluto. Poliana asume todo el peso técnico y estratégico del setup, creatividades de copies y optimización estadística continua. Solo necesitas un negocio operativo y capacidad de venta."
+          a: "No, en lo absoluto. Yo asumo todo el peso técnico y estratégico del setup, creatividades de copies y optimización estadística continua. Solo necesitas un negocio operativo y capacidad de venta."
         },
         {
           q: "¿Cuál es el presupuesto publicitario mínimo sugerido?",
@@ -910,7 +946,7 @@ export const translations: Record<Language, TranslationDictionary> = {
       btnSubmit: "Agendar mi Sesión Estratégica Gratuita ahora →",
       submitting: "Analizando infraestructura comercial...",
       successTitle: "🎉 ¡Aplicación Registrada con Éxito!",
-      successDesc: "Recibimos tus datos. Poliana auditará tu URL y te contactará directamente vía WhatsApp dentro de las siguientes 3 horas para definir el horario de la sesión de Zoom.",
+      successDesc: "Recibimos tus datos. Yo personalmente auditará tu URL y te contactaré directamente vía WhatsApp dentro de las siguientes 3 horas para definir el horario de la sesión de Zoom.",
       portalTitle: "Leads Captados Recientemente (Log del Sistema local)",
       portalEmpty: "No se han captado registros en este navegador aún de pruebas. ¡Envía el formulario arriba!"
     },

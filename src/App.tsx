@@ -28,7 +28,7 @@ import { translations, Language } from './translations';
 import polianaHeadshot from './assets/images/poliana_real-1.png';
 
 export default function App() {
-  const [lang, setLang] = useState<Language>('pt'); // Default to portuguese since user prompts in Portuguese, fully switcher supported
+  const [lang, setLang] = useState<Language>('en'); // Default to English first as requested, fully switcher supported
   
   // Lead Capture Form State
   const [name, setName] = useState('');
@@ -997,11 +997,34 @@ export default function App() {
             </div>
 
             <div className="lg:col-span-7 border-l-2 border-[#00FF66]/30 pl-6 lg:pl-10 space-y-6 text-sm md:text-base leading-relaxed text-slate-300 text-left">
-              {t.about.paragraphs.map((para, idx) => (
-                <p key={idx} className={idx === 0 ? "font-extrabold text-white text-base sm:text-lg leading-snug" : "font-normal text-xs sm:text-sm"}>
-                  {para}
-                </p>
-              ))}
+              {t.about.paragraphs.map((para, idx) => {
+                const isBullet = para.startsWith("- ");
+                if (isBullet) {
+                  return (
+                    <div key={idx} className="flex items-start gap-3 pl-2 my-1 group transition-all duration-200">
+                      <span className="text-[#00FF66] font-extrabold text-sm select-none transition-transform group-hover:translate-x-1 duration-300 mt-0.5">
+                        →
+                      </span>
+                      <p className="font-sans font-medium text-xs sm:text-sm text-slate-200">
+                        {para.substring(2)}
+                      </p>
+                    </div>
+                  );
+                }
+                const isHeadingFirst = idx === 0;
+                return (
+                  <p 
+                    key={idx} 
+                    className={`${
+                      isHeadingFirst 
+                        ? "font-extrabold text-white text-base sm:text-xl leading-snug bg-clip-text text-transparent bg-gradient-to-r from-white via-slate-100 to-[#00FF66]" 
+                        : "font-normal text-xs sm:text-sm text-slate-300"
+                    } whitespace-pre-line`}
+                  >
+                    {para}
+                  </p>
+                );
+              })}
             </div>
 
           </div>
